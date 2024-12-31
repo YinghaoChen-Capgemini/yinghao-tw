@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yinghao-tw
+- 👋 Hi, I’m @YinghaoChen-Capgemini
 - 👀 I’m interested in iOS/Flutter/HarmonyOS
 - 🌱 I’m currently learning HarmonyOS
 - 📫 How to reach me @chuxia98
